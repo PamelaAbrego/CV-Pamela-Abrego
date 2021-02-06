@@ -1,5 +1,4 @@
 // Function expression to select elements `
-alert("Hola")
 const selectElement = (s) => document.querySelector(s);
 const navLinks = document.querySelectorAll(".nav-link");
 
